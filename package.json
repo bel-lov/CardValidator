@@ -48,5 +48,13 @@
   },
   "dependencies": {
     "core-js": "^3.27.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bel-lov/CardValidator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bel-lov/CardValidator/issues"
+  },
+  "homepage": "https://github.com/bel-lov/CardValidator#readme"
 }
