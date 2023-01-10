@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Credit Card Validator",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
